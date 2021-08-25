@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Observer</string>
+    <string name="pista">Pista</string>
+    <string name="num_vueltas">Num. Vueltas</string>
+    <string name="longitud">Longitud</string>
+    <string name="num_curvas">Num Curvas</string>
+    <string name="pais">Pais</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="add">Add</string>
+    <string name="num_tracks">Num Tracks</string>
+</resources>
